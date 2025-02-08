@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957040950533",
+    "project_id": "kopi-7148a",
+    "storage_bucket": "kopi-7148a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957040950533:android:45810e8c6d44dd80cf4b6c",
+        "android_client_info": {
+          "package_name": "com.example.kopi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQlnvTxHMsld4_Ea9w0eEEvFT37iG9rss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
